@@ -1,2 +1,2 @@
-# Time-frequency-Analysis-and-Wavelet-Transform-NTU-2022Fall
+# Time frequency Analysis and Wavelet Transform NTU 2022Fall
 時頻分析可視為傅立葉轉換的一般化，本課程將介紹多個時頻分析的方法，包括短時傅立葉轉換，加伯轉換，韋格納分佈，柯恩轉換，希爾伯特黃轉換，小波轉換，並介紹它們在濾波器設計，聲學，影像處理，通訊，和壓縮感知上的應用 
